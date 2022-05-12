@@ -1,0 +1,2 @@
+# userID-Storage-and-Password-Security-Check
+A tool for file management and Administration. This script will check for users on a system and confirm that they have created a strong password. Each user needs to have a strong password because a system is only as secure as it's weakest link. A user with an unsecure password will leave your system vulnerable to system breaches and password attacks like brute force and dictionary attacks. 
